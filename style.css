@@ -64,25 +64,30 @@ body{
        }
      .flexible-container{
         display: flex;
-        margin-bottom: 150px;
+        margin-bottom: 100px;
      }
+
      .experinces-area{
         background-image: url(images/exp-bg.png);
         background-repeat: no-repeat;
+        background-position: 0%;
      }
      .experience-item{
        width: 40%;
+       height: 300px;
+
        margin-left: 5%;
        margin-right: 5%;
-       padding-left: 10px;
+       padding-left: 5px;
        
-       border-radius: 5px;
-      box-shadow: 10px 10px 40px gray;
+       border-radius: 10px;
+      box-shadow: 20px 20px 40px gray;
+      
      }
-   
-     
+     #Full-stack-developer{
+        border-left: 7px solid orangered;
+     } 
+  #Baby-Web-Developer{
+    border-left: 7px solid blue;
+  }
 
-footer {
-    text-align: center;
-}
- 
