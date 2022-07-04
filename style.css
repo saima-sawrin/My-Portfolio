@@ -1,0 +1,88 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+    h1{
+        font: size 50px;}
+    .Name{
+            color: orange;
+        }
+        section{
+            display: flex;
+        }
+        .half-section{
+            width: 40%;
+            padding-left: 6%;
+            padding-top: 2%;
+
+        }
+        .half-section img{
+         
+            width: 80%;
+        }
+        .Hire_me_button{
+            color: white;
+            font-weight: 700;
+            text-decoration: none;
+            background-image: linear-gradient(orange,tomato);
+            padding-top: 10px;
+            padding-left: 40px;
+            padding-right: 40px;
+            padding-bottom: 10px;
+            border-radius: 5px;
+        }
+        .top-banner{
+            background-image: url(images/top-banner.png);
+            background-repeat: no-repeat;
+        }
+        .half_part img{
+            width: 80%;
+            padding-left: 9%;
+       }
+       .half_part{
+        width: 40%;
+        padding-right: 3%;
+        padding-left: 3%;
+      
+       }
+       .Download_CV_button{
+        color: white;
+            font-weight: 700;
+            text-decoration: none;
+            background-image: linear-gradient(orange,tomato);
+            padding-top: 10px;
+            padding-left: 40px;
+            padding-right: 40px;
+            padding-bottom: 10px;
+            border-radius: 5px;
+       }
+       .Dream-Big{
+      background-image: url(images/dream-bg.png);
+      background-repeat: no-repeat;
+      background-position: right;
+    
+       }
+     .flexible-container{
+        display: flex;
+        margin-bottom: 150px;
+     }
+     .experinces-area{
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+     }
+     .experience-item{
+       width: 40%;
+       margin-left: 5%;
+       margin-right: 5%;
+       padding-left: 10px;
+       
+       border-radius: 5px;
+      box-shadow: 10px 10px 40px gray;
+     }
+   
+     
+
+footer {
+    text-align: center;
+}
+ 
